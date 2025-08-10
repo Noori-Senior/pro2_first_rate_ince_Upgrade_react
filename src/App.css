@@ -1,0 +1,120 @@
+
+.rp-cancel-button {
+    display: none !important;
+}
+
+.ReactCrop__crop-mask {
+  display: none !important;
+}
+  
+.search-menu-item {
+  display: flex; 
+  align-items: center; 
+  border-bottom: 1px solid #e5e9f2;
+}
+
+.search-menu-item:hover {
+  box-shadow: 0 0 5px #9eaddd, 0 0 25px #9eaddd, 0 0 50px #9eaddd, 0 0 100px #9eaddd;
+}
+/* for navigationBar2.js > IconButton*/
+.port-icont {
+  height: 30px;
+  width: 40px;
+}
+
+.header-right-align {
+  text-align: right;
+}
+.custom-select-input {
+  padding-left: 45px !important;
+}
+.custom-select-icon {
+  padding-left: 15px !important;
+}
+
+.mrt-model-title {
+  position: sticky; 
+  top: 0; 
+  background-color: white; 
+  z-index: 1000; 
+  padding: 10px; 
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1); 
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* class of second navbar and header 2 (H2) */
+.nav-2-header-2 {
+  font-family: inter !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  color: #3b3b3b !important;
+  font-optical-sizing: auto !important;
+}
+/* class of second navbar and header 2.5 (H2.5) */
+.nav-2-header-25 {
+  font-family: inter !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+  color: #FFFFFF !important;
+  font-optical-sizing: auto !important;
+}
+/* class of second navbar body */
+.nav-2-body {
+  font-family: inter !important;
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  color: #3b3b3b !important;
+  font-optical-sizing: auto !important;
+}
+/* class of report header 3 */
+.rpt-header-3 {
+  font-family: inter !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: #3b3b3b !important;
+  font-optical-sizing: auto !important;
+}
+/* class of report header 4 for porfolio search */
+.rpt-header-4 {
+  font-family: inter !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  color: white !important;
+  font-optical-sizing: auto !important;
+}
+/* class of report body */
+.rpt-body {
+  font-family: inter !important;
+  font-size: 12px !important;
+  font-weight: 300 !important;
+  color: #3b3b3b !important;
+  font-optical-sizing: auto !important;
+}
+/* class of report action buttons (Import, Export, ...) */
+.rpt-action-button {
+  font-family: inter !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  color: #3b3b3b !important;
+  font-optical-sizing: auto !important;
+}
+
+/* This class is to set style for date range field on second navbar */
+.nav-date-range { 
+  padding-left: 8px;
+  color: #3b3b3b !important;
+  font-family: inter !important;
+  font-size: 12px;
+}
+
+.nav-flex-portf {
+  align-items: center !important;
+  background-color: #ffffff !important;
+  border: 1px solid #a8b5c8 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  margin-bottom: 1 !important;
+  min-width: 410px !important;
+}
+
